@@ -356,11 +356,11 @@ https://www.mapbox.com/drone/no-fly/
 
 <!------------------------------------------------------------>
 --SLIDE--
-<!-- Topic: Example captured before talk ... -->
+<!-- Topic: Example  ... -->
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/8q7gg41LHik?list=UU1gRk1Hq5i97tCpto0E7Reg" frameborder="0" allowfullscreen></iframe>
+<iframe class="vine-embed" src="https://vine.co/v/OTeq2HmVx0n/embed/simple" width="600" height="600" frameborder="0"></iframe>
 <br>
-Video taken a few minutes before talk...
+Video taken with my rig...
 
 <!------------------------------------------------------------>
 --SLIDE--
