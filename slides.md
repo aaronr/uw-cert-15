@@ -636,8 +636,8 @@ Print Prep
 <!-- Topic: Wrapup -->
 <h2>My Story</h2>
 <hr>
-<h3>\* Dev turned Environmental Scientist \*</h3>
-<h3>\* Many turn from Sciences to Devs \*</h3>
+<h3>\* Develper turned Environmental Scientist \*</h3>
+<h3>\* Many turn from Science to Development \*</h3>
 <hr>
 <h2>Key is that we all meet in the middle!</h2>
 
